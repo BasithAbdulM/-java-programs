@@ -1,5 +1,8 @@
+package set1;
+
 public class DecimalComparator {
     public static void main(String[] args) {
+
         System.out.println(areEqualsbythreedcp(-3.123,3.123));
     }
     public static boolean areEqualsbythreedcp(double firstnum, double secondnum){

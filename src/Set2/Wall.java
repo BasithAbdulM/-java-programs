@@ -1,3 +1,5 @@
+package Set2;
+
 public class Wall {
     double width ;
     double height;

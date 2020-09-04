@@ -1,3 +1,5 @@
+package Set2;
+
 public class SimpleCalc {
     double firstnum;
     double secondnum;
